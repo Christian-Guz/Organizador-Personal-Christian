@@ -15,8 +15,9 @@ Tecnologías utilizada: Visual Studio Code, Git y GitHub
 
 ## Dependencias
 - Visual Studio Code
-- Git
+- Python 3.10.11
+- Git 2.52.0
 - GitHub
 
 ## Autor
-Christian Alejandro Guzmán Arenas
+Christian Alejandro Guzmán Arenas [Dueño del archivo]
