@@ -1,0 +1,38 @@
+1. ¿Cuál es la diferencia entre un repositorio local y uno remoto?
+El repositorio local es el que se encuentra almacenado en nuestro propio equipo donde se pueden generar
+ajustes propios sin necesidad de conexión. 
+El repositorio remoto es el que se encuentra conectado a GitHub donde se pueden compartir modificaciones
+de código ajenos o de tu mismo código.
+
+2. ¿Cuál es la diferencia entre commit y push?
+Commit guarda los cambios en el repositorio local de nuestro equipo.
+Push envía los commits generados en nuestro repositorio local al repositorio remoto de GitHub
+
+3. ¿Para qué sirve .gitignore?
+Para incluir los archvios que se quiere que no sean visible dentro de un repositorio remoto.
+
+4. ¿Por qué .venv no se almacena normalmente en GitHub?
+Ya que incluye archivos y funcionalidades que pueden ser generadas sin necesidad de incluirse en el repositorio,
+además de incluir una cantidad grande de archvios que podrían saturar el reposistorio remoto.
+
+5. ¿Para qué sirve requirements.txt?
+Para mostrar las librerías necesarias que se deben de descargar para que el programa que se encuentrar en el repositorio funcionen,
+
+6. ¿Cuál es la diferencia entre fork y clone?
+Fork crea una copia de un repositorio remoto dentro de nuestra propia cuenta de GitHub.
+Clone descarga un repositorio remoto a nuestra computadora, creando un repositorio local con el que podemos trabajar.
+
+7. ¿Por qué conviene crear una rama antes de modificar el proyecto?
+Ya que, en caso de presentar algún fallo o defecto en el código y se requiera regresar al punto donde se inició,
+se puede trabajar en un código que permite errores o fallos sin dañar el código funcional del repositorio.
+
+8. ¿Qué función cumple un Pull Request?
+Genera una solicitud al Dueño del repositorio del cual se está generando una compia, en donde presenta ajustes del código
+
+9. ¿Qué se revisa antes de realizar un merge?
+Se debe revisar si los cambios que se intentan acpetar son compatibles anuestro código
+y no generen conflictos que puedan dañar el código.
+
+10. ¿Por qué, después del merge en GitHub, se utiliza git pull en el repositorio local?
+Porque el merge realizado en GitHub modifica el repositorio remoto, 
+pero esos cambios todavía no se encuentran en nuestro repositorio local.
