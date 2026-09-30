@@ -21,3 +21,6 @@ Tecnologías utilizada: Visual Studio Code, Git y GitHub
 
 ## Autor
 Christian Alejandro Guzmán Arenas [Dueño del archivo]
+
+COLABORACIONES
+Bladimir Jacob Cervantes Tapia
